@@ -8,9 +8,9 @@ This project contains automated test cases for **Web UI** flows.
 ## 📦 Clone & Setup
 
 ```bash
-git clone 
+git clone https://github.com/fakhriariaf/Automation-Higo.git
 or
-git clone 
+git clone git@github.com:fakhriariaf/Automation-Higo.git
 ```
 
 ### ⚙️ Install Dependencies
@@ -82,3 +82,4 @@ AUTOMATION-HIGO/
 👨‍💻 [Fakhri Aria F](https://github.com/fakhriariaf)
 
 ---
+
